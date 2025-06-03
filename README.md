@@ -1,4 +1,4 @@
-# clover_take_home
+# Clover Take Home Assignment
 Contains design architecture for Clovers take home assignment.
 
 Assignment:
